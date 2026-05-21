@@ -15,3 +15,9 @@ Projeto simples de uma calculadora feita em Python com menu interativo no termin
 
 ```bash
 py calculadora.py
+
+# Calculadora em Python
+
+## Preview do projeto
+
+![Calculadora](img/preview.png)
